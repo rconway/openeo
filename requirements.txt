@@ -1,0 +1,7 @@
+wheel
+setuptools
+openeo[localprocessing]
+openeo-processes-dask[implementations]
+openeo-processes-dask[ml]
+netCDF4
+h5netcdf
